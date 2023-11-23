@@ -7,3 +7,6 @@
 
 username admin : admin@gmail.com
 password admin : admin
+
+php versi 8
+mysql terbaru
